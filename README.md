@@ -11,6 +11,23 @@
 - 📚 Currently learning **DevOps & TypeScript**  
 
 ---
+## 🌟 GitHub Contributions  
+
+![Profile Views](https://komarev.com/ghpvc/?username=dkg1212&label=Profile%20views&color=0e75b6&style=flat)  
+![GitHub followers](https://img.shields.io/github/followers/dkg1212?label=Followers&style=social)  
+![GitHub User's stars](https://img.shields.io/github/stars/dkg1212?label=Stars&style=social)  
+
+---
+
+### 📈 Contribution Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dkg1212&theme=tokyo-night)
+
+---
+
+### 🐍 Contribution Snake  
+![snake gif](https://github.com/dkg1212/dkg1212/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ## 🛠️ Tech Stack  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)  
