@@ -24,8 +24,15 @@
 
 ---
 
-### 🐍 Contribution Snake  
-![snake gif](https://github.com/dkg1212/dkg1212/blob/output/github-contribution-grid-snake.svg)
+### 🐍 GitHub Activity Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BJB0/BJB0/output/github-snake-dark.svg?palette=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BJB0/BJB0/output/github-snake.svg?palette=rainbow" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/BJB0/BJB0/output/github-snake.svg?palette=rainbow" />
+  </picture>
+</p>
 
 ---
 
